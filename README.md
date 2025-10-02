@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @matem817
 - 👀 I’m interested in programming, science and music
-- 🌱 I’m currently learning python by my self but soonTM i will start learning c++ at school
+- 🌱 I’m currently learning c++ at school
 <!---- 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me : idk why you would want to but here my discord: matem817
+- 📫 How to reach me : matem817@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an introvert :D
 
